@@ -1,0 +1,14 @@
+{
+    "name": "lance/day0128",
+    "require": {
+      "ext-posix": "*",
+      "ext-pcntl": "*",
+      "ext-json": "*",
+      "ext-sockets": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "main\\": "src/"
+        }
+    }
+}

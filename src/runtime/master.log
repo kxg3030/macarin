@@ -1,0 +1,48 @@
+[record] 2019-03-11 23:22:19 0
+[record] 2019-03-11 23:22:22 1
+[record] 2019-03-11 23:22:25 2
+[record] 2019-03-11 23:22:28 3
+[record] 2019-03-11 23:22:31 4
+[record] 2019-03-11 23:22:34 5
+[record] 2019-03-11 23:22:37 6
+[record] 2019-03-11 23:22:40 7
+[record] 2019-03-11 23:22:43 8
+[record] 2019-03-11 23:22:46 9
+[record] 2019-03-11 23:22:49 10
+[record] 2019-03-11 23:22:50 master process status :terminal,child process count:2
+[record] 2019-03-11 23:22:50 master process send SIGTERM to child process
+[record] 2019-03-11 23:22:50 {"msg":"socket_accept(): unable to accept incoming connection [4]: Interrupted system call","line":492,"code":2,"file":"\/home\/www\/day0307\/src\/App.php","type":"error"}
+[record] 2019-03-11 23:22:50 child process 30738 exit
+[record] 2019-03-11 23:22:51 master process send SIGTERM to child process
+[record] 2019-03-11 23:22:51 {"msg":"socket_accept(): unable to accept incoming connection [4]: Interrupted system call","line":492,"code":2,"file":"\/home\/www\/day0307\/src\/App.php","type":"error"}
+[record] 2019-03-11 23:26:09 0
+[record] 2019-03-11 23:26:12 1
+[record] 2019-03-11 23:26:15 2
+[record] 2019-03-11 23:26:18 3
+[record] 2019-03-11 23:26:21 4
+[record] 2019-03-11 23:26:24 5
+[record] 2019-03-11 23:26:27 6
+[record] 2019-03-11 23:26:30 7
+[record] 2019-03-11 23:26:31 master process status :terminal,child process count:2
+[record] 2019-03-11 23:26:31 master process send SIGTERM to child process
+[record] 2019-03-11 23:26:31 {"msg":"socket_accept(): unable to accept incoming connection [4]: Interrupted system call","line":493,"code":2,"file":"\/home\/www\/day0307\/src\/App.php","type":"error"}
+[record] 2019-03-11 23:26:31 master process status :terminal,child process count:1
+[record] 2019-03-11 23:26:31 master process send SIGTERM to child process
+[record] 2019-03-11 23:26:31 child process 31238 exit
+[record] 2019-03-11 23:26:32 master process send SIGTERM to child process
+[record] 2019-03-11 23:26:33 {"msg":"unlink(\/home\/www\/day0307\/src\/constant\/..\/..\/\/src\/\/runtime\/master.pid): No such file or directory","line":341,"code":2,"file":"\/home\/www\/day0307\/src\/App.php","type":"error"}
+[record] 2019-03-11 23:29:10 0
+[record] 2019-03-11 23:29:13 1
+[record] 2019-03-11 23:29:16 2
+[record] 2019-03-11 23:29:19 3
+[record] 2019-03-11 23:29:22 4
+[record] 2019-03-11 23:29:25 5
+[record] 2019-03-11 23:29:28 6
+[record] 2019-03-11 23:29:31 7
+[record] 2019-03-11 23:29:34 8
+[record] 2019-03-11 23:29:35 master process status :terminal,child process count:2
+[record] 2019-03-11 23:29:35 master process send SIGTERM to child process
+[record] 2019-03-11 23:29:35 {"msg":"socket_accept(): unable to accept incoming connection [4]: Interrupted system call","line":494,"code":2,"file":"\/home\/www\/day0307\/src\/App.php","type":"error"}
+[record] 2019-03-11 23:29:35 child process 31644 exit
+[record] 2019-03-11 23:29:35 child process 31643 exit
+[record] 2019-03-11 23:29:36 master process send SIGTERM to child process
